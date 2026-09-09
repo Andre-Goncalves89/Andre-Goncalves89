@@ -29,6 +29,7 @@ andrearaujomti@gmail.com
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/Playwright-TypeScript-green?logo=playwright" style="max-width: 100%;">>
 </div>
 
 
